@@ -51,19 +51,21 @@ h1 {
   font-size: 25px;
   padding: 2%;
   padding-top: 55px;
-  background-color: rgba(0,0,0,0.3);
+  background-color: RGB(255, 160, 122);
 }
 
 .name1{
+	color: white;
   background-color: #FFB6C1;
 }
 
 .name2{
   color: white;
-  background-color: #FF0000;
+  background-color: RGB(199, 21, 133);
 }
 .name3{
-  background-color: #FFFF00;
+	color: white;
+  background-color: RGB(189, 183, 107);
 }
 
 
